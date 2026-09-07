@@ -1,511 +1,511 @@
 [
   {
-    "id": "faceless-youtube-video-ai-hub-reddit-1",
-    "title": "r/MachineLearning Research",
+    "title": "r/NewTubers Creator Development",
     "platform": "Reddit",
-    "category": "Machine Learning",
-    "memberCount": "2,900,000+ members",
-    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
-    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "category": "YouTube Growth",
+    "memberCount": "380,000+ members",
+    "description": "The premier community for growing YouTube channels, mastering retention curves, thumbnail design, and video pacing.",
+    "joinUrl": "https://www.reddit.com/r/NewTubers/",
     "tags": [
-      "machine-learning",
-      "ai",
-      "research",
-      "reddit"
+      "newtubers",
+      "youtube",
+      "retention",
+      "thumbnails"
     ],
+    "id": "youtube-automation-creators-hub-reddit-1",
     "verified": true,
     "featured": true
   },
   {
-    "id": "faceless-youtube-video-ai-hub-reddit-2",
-    "title": "r/LocalLLaMA Open Models",
+    "title": "r/youtubers Professional Video Creators",
     "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "260,000+ members",
-    "description": "Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.",
-    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "category": "Creator Community",
+    "memberCount": "290,000+ members",
+    "description": "Discussions on YouTube partner monetization, copyright strike management, audience demographics, and studio production.",
+    "joinUrl": "https://www.reddit.com/r/youtubers/",
     "tags": [
-      "localllama",
-      "ai",
-      "open-source",
-      "reddit"
+      "youtubers",
+      "monetization",
+      "studio",
+      "production"
     ],
+    "id": "youtube-automation-creators-hub-reddit-2",
     "verified": true,
     "featured": true
   },
   {
-    "id": "faceless-youtube-video-ai-hub-reddit-3",
-    "title": "r/ChatGPT AI Community",
+    "title": "r/VideoEditing Post-Production Craft",
     "platform": "Reddit",
-    "category": "Generative AI",
-    "memberCount": "6,100,000+ members",
-    "description": "Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.",
-    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "category": "Video Editing",
+    "memberCount": "420,000+ members",
+    "description": "Mastering editing workflows, motion graphics, sound design, color grading, and speed-editing techniques.",
+    "joinUrl": "https://www.reddit.com/r/VideoEditing/",
     "tags": [
-      "chatgpt",
-      "openai",
-      "prompts",
-      "reddit"
+      "videoediting",
+      "motiongraphics",
+      "sounddesign",
+      "editing"
     ],
+    "id": "youtube-automation-creators-hub-reddit-3",
     "verified": true,
     "featured": true
   },
   {
-    "id": "faceless-youtube-video-ai-hub-discord-4",
-    "title": "OpenAI Official Discord",
-    "platform": "Discord",
-    "category": "Generative AI",
-    "memberCount": "550,000+ members",
-    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
-    "joinUrl": "https://discord.gg/openai",
-    "tags": [
-      "openai",
-      "chatgpt",
-      "api",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-discord-5",
-    "title": "Midjourney Official Discord",
-    "platform": "Discord",
-    "category": "Creative AI & Art",
-    "memberCount": "16,000,000+ members",
-    "description": "The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.",
-    "joinUrl": "https://discord.gg/midjourney",
-    "tags": [
-      "midjourney",
-      "ai-art",
-      "prompts",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-discord-6",
-    "title": "Hugging Face Community Discord",
-    "platform": "Discord",
-    "category": "Open Source AI",
-    "memberCount": "140,000+ members",
-    "description": "Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.",
-    "joinUrl": "https://discord.gg/huggingface",
-    "tags": [
-      "huggingface",
-      "transformers",
-      "open-source",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-reddit-7",
-    "title": "r/Midjourney Prompt Engineering",
+    "title": "r/premiere Adobe Premiere Pro Mastermind",
     "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "1,300,000+ members",
-    "description": "Curated community sharing Midjourney prompt formulas, lighting styles, camera parameters, and generative showcases.",
-    "joinUrl": "https://www.reddit.com/r/Midjourney/",
+    "category": "NLE Software",
+    "memberCount": "160,000+ members",
+    "description": "Essential Premiere Pro plugins, dynamic link workflows, caption generation, audio mastering, and rendering presets.",
+    "joinUrl": "https://www.reddit.com/r/premiere/",
     "tags": [
-      "midjourney",
-      "prompts",
-      "ai-art",
-      "reddit"
+      "premiere",
+      "adobe",
+      "editing",
+      "plugins"
     ],
+    "id": "youtube-automation-creators-hub-reddit-4",
     "verified": true,
     "featured": false
   },
   {
-    "id": "faceless-youtube-video-ai-hub-reddit-8",
-    "title": "r/StableDiffusion Local Art",
+    "title": "r/AfterEffects Motion Graphics Guild",
     "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "480,000+ members",
-    "description": "Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.",
-    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
-    "tags": [
-      "stablediffusion",
-      "comfyui",
-      "ai-art",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-telegram-9",
-    "title": "AI Insights & Research Feed",
-    "platform": "Telegram",
-    "category": "AI Research",
-    "memberCount": "72,000+ members",
-    "description": "Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.",
-    "joinUrl": "https://t.me/ai_insights",
-    "tags": [
-      "ai",
-      "research",
-      "telegram",
-      "models"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-telegram-10",
-    "title": "Machine Learning Digest Channel",
-    "platform": "Telegram",
-    "category": "Machine Learning",
-    "memberCount": "58,000+ members",
-    "description": "Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.",
-    "joinUrl": "https://t.me/machinelearning_digest",
-    "tags": [
-      "machine-learning",
-      "telegram",
-      "digest",
-      "deep-learning"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-reddit-11",
-    "title": "r/PromptEngineering Elite",
-    "platform": "Reddit",
-    "category": "Prompt Engineering",
-    "memberCount": "110,000+ members",
-    "description": "Systematic discussion of prompt architecture, few-shot conditioning, chain-of-thought methods, and agentic workflows.",
-    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
-    "tags": [
-      "prompts",
-      "llm",
-      "agents",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-reddit-12",
-    "title": "r/ClaudeAI Anthropic Community",
-    "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "95,000+ members",
-    "description": "Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.",
-    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
-    "tags": [
-      "claude",
-      "anthropic",
-      "llm",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-discord-13",
-    "title": "Anthropic Claude Discord",
-    "platform": "Discord",
-    "category": "Large Language Models",
-    "memberCount": "62,000+ members",
-    "description": "Community server discussing Claude API integrations, prompt techniques, and AI safety evaluations.",
-    "joinUrl": "https://discord.gg/anthropic",
-    "tags": [
-      "claude",
-      "anthropic",
-      "api",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-discord-14",
-    "title": "LangChain Official Discord",
-    "platform": "Discord",
-    "category": "AI Engineering",
-    "memberCount": "80,000+ members",
-    "description": "Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.",
-    "joinUrl": "https://discord.gg/langchain",
-    "tags": [
-      "langchain",
-      "agents",
-      "ai",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-forum-15",
-    "title": "Hugging Face Community Forums",
-    "platform": "Forum",
-    "category": "Open Source AI",
-    "memberCount": "500,000+ members",
-    "description": "Official forum for open-source AI researchers, fine-tuning checkpoints, tokenizers, and PyTorch models.",
-    "joinUrl": "https://discuss.huggingface.co",
-    "tags": [
-      "huggingface",
-      "forum",
-      "transformers",
-      "pytorch"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-github-16",
-    "title": "PyTorch GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Machine Learning",
-    "memberCount": "90,000+ contributors",
-    "description": "Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.",
-    "joinUrl": "https://github.com/pytorch/pytorch/discussions",
-    "tags": [
-      "pytorch",
-      "github",
-      "deep-learning",
-      "cuda"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-forum-17",
-    "title": "OpenAI Developer Forum",
-    "platform": "Forum",
-    "category": "Generative AI",
-    "memberCount": "400,000+ members",
-    "description": "Official developer forum for troubleshooting OpenAI API endpoints, fine-tuning jobs, and function calling.",
-    "joinUrl": "https://community.openai.com",
-    "tags": [
-      "openai",
-      "forum",
-      "api",
-      "gpt-4"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-forum-18",
-    "title": "Kaggle Data & AI Discussions",
-    "platform": "Forum",
-    "category": "Data Science & AI",
-    "memberCount": "1,500,000+ members",
-    "description": "Global competitions, notebook implementations, and deep-dive methodology discussions for ML practitioners.",
-    "joinUrl": "https://www.kaggle.com/discussion",
-    "tags": [
-      "kaggle",
-      "machine-learning",
-      "forum",
-      "competitions"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-reddit-19",
-    "title": "r/Python Developer Community",
-    "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
-    "tags": [
-      "python",
-      "backend",
-      "software-engineering",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-discord-20",
-    "title": "Python Official Discord",
-    "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://discord.gg/python",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-telegram-21",
-    "title": "Python Developers Telegram Channel",
-    "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
-    "tags": [
-      "python",
-      "telegram",
-      "scripts",
-      "tips"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-reddit-22",
-    "title": "r/programming International",
-    "platform": "Reddit",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
-    "tags": [
-      "programming",
-      "engineering",
-      "industry",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-discord-23",
-    "title": "The Programmer's Hangout",
-    "platform": "Discord",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
-    "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-reddit-24",
-    "title": "r/rust Systems Programming",
-    "platform": "Reddit",
-    "category": "Systems Programming",
+    "category": "Motion Graphics",
     "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
+    "description": "Creating viral hooks, 3D text animations, cinematic transitions, particle effects, and kinetic typography for YouTube.",
+    "joinUrl": "https://www.reddit.com/r/AfterEffects/",
     "tags": [
-      "rust",
-      "systems",
-      "concurrency",
-      "reddit"
+      "aftereffects",
+      "motion",
+      "typography",
+      "vfx"
     ],
+    "id": "youtube-automation-creators-hub-reddit-5",
     "verified": true,
     "featured": false
   },
   {
-    "id": "faceless-youtube-video-ai-hub-discord-25",
-    "title": "Rust Programming Language Discord",
-    "platform": "Discord",
-    "category": "Systems Programming",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
-    "joinUrl": "https://discord.gg/rust-lang",
+    "title": "r/davinciresolve Color & Fusion Workflows",
+    "platform": "Reddit",
+    "category": "DaVinci Resolve",
+    "memberCount": "190,000+ members",
+    "description": "Free and Studio DaVinci Resolve editing, Fairlight audio design, node-based color grading, and Fusion effects.",
+    "joinUrl": "https://www.reddit.com/r/davinciresolve/",
     "tags": [
-      "rust",
-      "systems",
-      "discord",
-      "compiler"
+      "davinci",
+      "resolve",
+      "colorgrading",
+      "fusion"
     ],
+    "id": "youtube-automation-creators-hub-reddit-6",
     "verified": true,
     "featured": false
   },
   {
-    "id": "faceless-youtube-video-ai-hub-telegram-26",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
+    "title": "r/PartneredYoutube Monetized Channels",
+    "platform": "Reddit",
+    "category": "YPP Partners",
+    "memberCount": "85,000+ members",
+    "description": "Exclusive forum for monetized creators discussing RPM/CPM rates by niche, AdSense payouts, and sponsorship contracts.",
+    "joinUrl": "https://www.reddit.com/r/PartneredYoutube/",
+    "tags": [
+      "partnered",
+      "cpm",
+      "rpm",
+      "adsense"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-7",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/YouTubeCreators Channel Management",
+    "platform": "Reddit",
+    "category": "Creator Strategy",
+    "memberCount": "65,000+ members",
+    "description": "Long-term channel brand building, community tab engagement, multi-format upload cadences, and viewer retention.",
+    "joinUrl": "https://www.reddit.com/r/YouTubeCreators/",
+    "tags": [
+      "youtubecreators",
+      "strategy",
+      "community",
+      "retention"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-8",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/Shorts Vertical Video Strategy",
+    "platform": "Reddit",
+    "category": "YouTube Shorts",
     "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
+    "description": "Mastering YouTube Shorts algorithm, swipe-away rate reduction, vertical storytelling, and shorts-to-longform conversion.",
+    "joinUrl": "https://www.reddit.com/r/shorts/",
     "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
+      "shorts",
+      "vertical",
+      "algorithm",
+      "virality"
     ],
+    "id": "youtube-automation-creators-hub-reddit-9",
     "verified": true,
     "featured": false
   },
   {
-    "id": "faceless-youtube-video-ai-hub-reddit-27",
-    "title": "r/javascript Global Hub",
+    "title": "r/content_marketing Digital Video Reach",
     "platform": "Reddit",
-    "category": "Web Development",
+    "category": "Content Marketing",
+    "memberCount": "180,000+ members",
+    "description": "Repurposing video content across TikTok, Reels, Shorts, and building automated video production pipelines.",
+    "joinUrl": "https://www.reddit.com/r/content_marketing/",
+    "tags": [
+      "content",
+      "repurposing",
+      "pipelines",
+      "video"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-10",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/socialmediamarketing Video Distribution",
+    "platform": "Reddit",
+    "category": "Social Media",
+    "memberCount": "340,000+ members",
+    "description": "Omnichannel video distribution, viral hook formulas, thumbnail A/B testing frameworks, and community growth.",
+    "joinUrl": "https://www.reddit.com/r/socialmediamarketing/",
+    "tags": [
+      "smm",
+      "thumbnails",
+      "hooks",
+      "virality"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-11",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/CreatorServices Production Market",
+    "platform": "Reddit",
+    "category": "Creative Hiring",
+    "memberCount": "48,000+ members",
+    "description": "Hiring voiceover artists, scriptwriters, video editors, and thumbnail artists for faceless cashcow channels.",
+    "joinUrl": "https://www.reddit.com/r/CreatorServices/",
+    "tags": [
+      "creatorservices",
+      "hiring",
+      "voiceovers",
+      "editors"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-12",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/smallbusiness Media Companies",
+    "platform": "Reddit",
+    "category": "Media Business",
     "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
+    "description": "Running digital media studios, hiring remote contractor teams in the Philippines, and corporate video production.",
+    "joinUrl": "https://www.reddit.com/r/smallbusiness/",
     "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
+      "smallbusiness",
+      "media",
+      "contractors",
+      "studios"
     ],
+    "id": "youtube-automation-creators-hub-reddit-13",
     "verified": true,
     "featured": false
   },
   {
-    "id": "faceless-youtube-video-ai-hub-discord-28",
-    "title": "Reactiflux Discord Community",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://discord.gg/reactiflux",
-    "tags": [
-      "react",
-      "frontend",
-      "javascript",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-telegram-29",
-    "title": "Web Developers Network",
-    "platform": "Telegram",
-    "category": "Web Development",
-    "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
-    "joinUrl": "https://t.me/webdev_hub",
-    "tags": [
-      "webdev",
-      "frontend",
-      "telegram",
-      "tooling"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "faceless-youtube-video-ai-hub-reddit-30",
-    "title": "r/golang Backend Hub",
+    "title": "r/passive_income Digital Asset Portfolios",
     "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
+    "category": "Passive Income",
+    "memberCount": "580,000+ members",
+    "description": "Building evergreen cashcow YouTube channel networks that generate consistent monthly Google AdSense revenue.",
+    "joinUrl": "https://www.reddit.com/r/passive_income/",
     "tags": [
-      "golang",
-      "backend",
-      "concurrency",
+      "passiveincome",
+      "cashcow",
+      "adsense",
+      "evergreen"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-14",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/audioengineering Voice & Audio Quality",
+    "platform": "Reddit",
+    "category": "Audio Engineering",
+    "memberCount": "290,000+ members",
+    "description": "Mastering voiceover audio, EQ curve balancing, noise reduction (iZotope RX), compression, and room acoustics.",
+    "joinUrl": "https://www.reddit.com/r/audioengineering/",
+    "tags": [
+      "audio",
+      "voiceover",
+      "eq",
+      "mastering"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-15",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "YouTube Creators Official Discord",
+    "platform": "Discord",
+    "category": "Creator Discord",
+    "memberCount": "65,000+ members",
+    "description": "Official Discord server for YouTube creators, discussing CTR optimization, YouTube Analytics, and video feedback.",
+    "joinUrl": "https://discord.gg/creators",
+    "tags": [
+      "creators",
+      "discord",
+      "ctr",
+      "analytics"
+    ],
+    "id": "youtube-automation-creators-hub-discord-16",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Video Editors Global Discord Server",
+    "platform": "Discord",
+    "category": "Editor Lounge",
+    "memberCount": "58,000+ members",
+    "description": "Community of professional YouTube editors sharing sound effect (SFX) packs, motion presets, and client job listings.",
+    "joinUrl": "https://discord.gg/videoediting",
+    "tags": [
+      "videoediting",
+      "discord",
+      "sfx",
+      "presets"
+    ],
+    "id": "youtube-automation-creators-hub-discord-17",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "YouTube Growth & Strategy Discord",
+    "platform": "Discord",
+    "category": "Algorithm Strategy",
+    "memberCount": "45,000+ members",
+    "description": "In-depth discussions on algorithmic impressions, browse features vs suggested videos, and thumbnail split-tests.",
+    "joinUrl": "https://discord.gg/youtube",
+    "tags": [
+      "youtube",
+      "discord",
+      "algorithm",
+      "browse"
+    ],
+    "id": "youtube-automation-creators-hub-discord-18",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Faceless Creators Community Discord",
+    "platform": "Discord",
+    "category": "Automation Hub",
+    "memberCount": "38,000+ members",
+    "description": "Server dedicated to faceless channels, automated scripting tools, elevenlabs voice pipelines, and niche CPM tiers.",
+    "joinUrl": "https://discord.gg/faceless",
+    "tags": [
+      "faceless",
+      "discord",
+      "voiceovers",
+      "automation"
+    ],
+    "id": "youtube-automation-creators-hub-discord-19",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Premiere & AfterEffects Pro Discord",
+    "platform": "Discord",
+    "category": "Adobe Specialists",
+    "memberCount": "42,000+ members",
+    "description": "Motion graphics templates, script automation (ExtendScript), render farm setups, and asset libraries.",
+    "joinUrl": "https://discord.gg/editing",
+    "tags": [
+      "editing",
+      "discord",
+      "premiere",
+      "aftereffects"
+    ],
+    "id": "youtube-automation-creators-hub-discord-20",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Faceless YouTube Channels Telegram",
+    "platform": "Telegram",
+    "category": "Cashcow Channels",
+    "memberCount": "62,000+ members",
+    "description": "Daily case studies on profitable faceless channels, high-CPM niches (finance, tech, luxury), and production costs.",
+    "joinUrl": "https://t.me/facelessyoutube",
+    "tags": [
+      "faceless",
+      "telegram",
+      "cashcow",
+      "cpm"
+    ],
+    "id": "youtube-automation-creators-hub-telegram-21",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "YouTube Cashcow Automation Telegram",
+    "platform": "Telegram",
+    "category": "Production Pipelines",
+    "memberCount": "54,000+ members",
+    "description": "Standard operating procedures (SOPs) for managing video editors, scriptwriters, and thumbnail artists on Upwork.",
+    "joinUrl": "https://t.me/youtubecashcow",
+    "tags": [
+      "cashcow",
+      "telegram",
+      "sops",
+      "automation"
+    ],
+    "id": "youtube-automation-creators-hub-telegram-22",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Viral Shorts & Video AI Telegram",
+    "platform": "Telegram",
+    "category": "Shorts Virality",
+    "memberCount": "68,000+ members",
+    "description": "Curated viral shorts hooks, AI B-roll generation workflows, automated captions, and monetization metrics.",
+    "joinUrl": "https://t.me/viralshorts",
+    "tags": [
+      "viralshorts",
+      "telegram",
+      "hooks",
+      "broll"
+    ],
+    "id": "youtube-automation-creators-hub-telegram-23",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "High CTR Thumbnails Channel Telegram",
+    "platform": "Telegram",
+    "category": "Thumbnail Design",
+    "memberCount": "48,000+ members",
+    "description": "Daily thumbnail tear-downs, typography rules, color contrast psychology, and 12%+ CTR case studies.",
+    "joinUrl": "https://t.me/highctrthumbnails",
+    "tags": [
+      "thumbnails",
+      "telegram",
+      "ctr",
+      "design"
+    ],
+    "id": "youtube-automation-creators-hub-telegram-24",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "Video AI & Editing Tools Telegram",
+    "platform": "Telegram",
+    "category": "Creator Tooling",
+    "memberCount": "58,000+ members",
+    "description": "Updates on AI video tools (Runway, Midjourney, ElevenLabs, Topaz Video AI) and ethical creator workflows.",
+    "joinUrl": "https://t.me/videoaitools",
+    "tags": [
+      "videoai",
+      "telegram",
+      "elevenlabs",
+      "runway"
+    ],
+    "id": "youtube-automation-creators-hub-telegram-25",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/animation Motion & Storytelling",
+    "platform": "Reddit",
+    "category": "Animation",
+    "memberCount": "320,000+ members",
+    "description": "2D and 3D character animation, keyframing, timing principles, and animated explainer channel production.",
+    "joinUrl": "https://www.reddit.com/r/animation/",
+    "tags": [
+      "animation",
+      "2d",
+      "3d",
+      "storytelling"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-26",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/Filmmakers Production Standards",
+    "platform": "Reddit",
+    "category": "Filmmaking",
+    "memberCount": "2,200,000+ members",
+    "description": "Cinematography, lighting setups, directional audio recording, and high-production value documentary storytelling.",
+    "joinUrl": "https://www.reddit.com/r/Filmmakers/",
+    "tags": [
+      "filmmakers",
+      "cinematography",
+      "lighting",
+      "audio"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-27",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/Entrepreneur Media Enterprise",
+    "platform": "Reddit",
+    "category": "Entrepreneurship",
+    "memberCount": "3,500,000+ members",
+    "description": "Building digital media companies, intellectual property valuation, brand sponsorships, and multi-channel networks.",
+    "joinUrl": "https://www.reddit.com/r/Entrepreneur/",
+    "tags": [
+      "entrepreneur",
+      "media",
+      "ip",
+      "sponsorships"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-28",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "r/YouTubeGamers Gaming Channels",
+    "platform": "Reddit",
+    "category": "Gaming Creators",
+    "memberCount": "78,000+ members",
+    "description": "Game capture setups, OBS studio optimization, let's play commentary pacing, and gaming community growth.",
+    "joinUrl": "https://www.reddit.com/r/YouTubeGamers/",
+    "tags": [
+      "gaming",
+      "obs",
+      "gameplay",
       "reddit"
     ],
+    "id": "youtube-automation-creators-hub-reddit-29",
+    "verified": true,
+    "featured": false
+  },
+  {
+    "title": "YouTube Monetization Secrets Telegram",
+    "platform": "Telegram",
+    "category": "AdSense & Sponsors",
+    "memberCount": "46,000+ members",
+    "description": "Negotiating direct brand integrations, affiliate links in video descriptions, and YouTube Shopping merchandising.",
+    "joinUrl": "https://t.me/youtubemonetization",
+    "tags": [
+      "monetization",
+      "telegram",
+      "sponsors",
+      "merch"
+    ],
+    "id": "youtube-automation-creators-hub-telegram-30",
     "verified": true,
     "featured": false
   }
