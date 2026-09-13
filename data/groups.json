@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-reddit-20260913-1",
+    "title": "r/SEO Search Engine Optimization",
+    "platform": "Reddit",
+    "category": "SEO & GEO",
+    "memberCount": "270,000+ members",
+    "description": "Technical SEO, Core Web Vitals, Google algorithm update analysis, backlink audits, and Generative Engine Optimization.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "geo",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
     "title": "r/NewTubers Creator Development",
     "platform": "Reddit",
     "category": "YouTube Growth",
@@ -14,7 +33,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-1",
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "title": "r/youtubers Professional Video Creators",
@@ -31,7 +51,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-2",
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "title": "r/VideoEditing Post-Production Craft",
@@ -48,7 +69,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-3",
     "verified": true,
-    "featured": true
+    "featured": true,
+    "isTodaysPick": false
   },
   {
     "title": "r/premiere Adobe Premiere Pro Mastermind",
@@ -65,7 +87,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-4",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/AfterEffects Motion Graphics Guild",
@@ -82,7 +105,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-5",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/davinciresolve Color & Fusion Workflows",
@@ -99,7 +123,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-6",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/PartneredYoutube Monetized Channels",
@@ -116,7 +141,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-7",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/YouTubeCreators Channel Management",
@@ -133,7 +159,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-8",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/Shorts Vertical Video Strategy",
@@ -150,7 +177,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-9",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/content_marketing Digital Video Reach",
@@ -167,7 +195,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-10",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/socialmediamarketing Video Distribution",
@@ -184,7 +213,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-11",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/CreatorServices Production Market",
@@ -201,7 +231,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-12",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/smallbusiness Media Companies",
@@ -218,7 +249,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-13",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/passive_income Digital Asset Portfolios",
@@ -235,7 +267,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-14",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/audioengineering Voice & Audio Quality",
@@ -252,7 +285,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-15",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "YouTube Creators Official Discord",
@@ -269,7 +303,8 @@
     ],
     "id": "youtube-automation-creators-hub-discord-16",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Video Editors Global Discord Server",
@@ -286,7 +321,8 @@
     ],
     "id": "youtube-automation-creators-hub-discord-17",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "YouTube Growth & Strategy Discord",
@@ -303,7 +339,8 @@
     ],
     "id": "youtube-automation-creators-hub-discord-18",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Faceless Creators Community Discord",
@@ -320,7 +357,8 @@
     ],
     "id": "youtube-automation-creators-hub-discord-19",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Premiere & AfterEffects Pro Discord",
@@ -337,7 +375,8 @@
     ],
     "id": "youtube-automation-creators-hub-discord-20",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Faceless YouTube Channels Telegram",
@@ -354,7 +393,8 @@
     ],
     "id": "youtube-automation-creators-hub-telegram-21",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "YouTube Cashcow Automation Telegram",
@@ -371,7 +411,8 @@
     ],
     "id": "youtube-automation-creators-hub-telegram-22",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Viral Shorts & Video AI Telegram",
@@ -388,7 +429,8 @@
     ],
     "id": "youtube-automation-creators-hub-telegram-23",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "High CTR Thumbnails Channel Telegram",
@@ -405,7 +447,8 @@
     ],
     "id": "youtube-automation-creators-hub-telegram-24",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "Video AI & Editing Tools Telegram",
@@ -422,7 +465,8 @@
     ],
     "id": "youtube-automation-creators-hub-telegram-25",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/animation Motion & Storytelling",
@@ -439,7 +483,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-26",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/Filmmakers Production Standards",
@@ -456,7 +501,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-27",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/Entrepreneur Media Enterprise",
@@ -473,7 +519,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-28",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "r/YouTubeGamers Gaming Channels",
@@ -490,7 +537,8 @@
     ],
     "id": "youtube-automation-creators-hub-reddit-29",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   },
   {
     "title": "YouTube Monetization Secrets Telegram",
@@ -507,6 +555,7 @@
     ],
     "id": "youtube-automation-creators-hub-telegram-30",
     "verified": true,
-    "featured": false
+    "featured": false,
+    "isTodaysPick": false
   }
 ]
