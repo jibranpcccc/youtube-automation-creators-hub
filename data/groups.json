@@ -1,6 +1,25 @@
 [
   {
     "id": "youtube-automation-creators-hub-reddit-20260913-1",
+    "title": "r/marketing Growth & Strategy",
+    "platform": "Reddit",
+    "category": "Digital Marketing",
+    "memberCount": "680,000+ members",
+    "description": "Brand positioning, paid acquisition, funnel attribution, CRO testing, and content marketing case studies.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "growth",
+      "strategy",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-13"
+  },
+  {
+    "id": "youtube-automation-creators-hub-reddit-20260913-1",
     "title": "r/SEO Search Engine Optimization",
     "platform": "Reddit",
     "category": "SEO & GEO",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
   },
   {
