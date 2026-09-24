@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-reddit-20260924-1",
+    "title": "r/PPC Pay-Per-Click Advertising",
+    "platform": "Reddit",
+    "category": "Paid Search",
+    "memberCount": "180,000+ members",
+    "description": "Search arbitrage, Google Search Ads, Bing Ads, keyword match types, and negative keyword optimization.",
+    "joinUrl": "https://www.reddit.com/r/PPC/",
+    "tags": [
+      "ppc",
+      "googleads",
+      "bingads",
+      "arbitrage"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-24"
+  },
+  {
     "id": "youtube-automation-creators-hub-reddit-20260923-1",
     "title": "r/digitalmarketing Acquisition Channels",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-23"
   },
   {
