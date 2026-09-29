@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-reddit-20260929-1",
+    "title": "r/copywriting Sales Letter Architecture",
+    "platform": "Reddit",
+    "category": "Direct Response Copy",
+    "memberCount": "220,000+ members",
+    "description": "Writing high-converting advertorials, bridge pages, VSL scripts, and email swipes that drive affiliate sales.",
+    "joinUrl": "https://www.reddit.com/r/copywriting/",
+    "tags": [
+      "copywriting",
+      "advertorials",
+      "vsl",
+      "sales"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-29"
+  },
+  {
     "id": "youtube-automation-creators-hub-reddit-20260927-1",
     "title": "r/adops Ad Operations & Tracking",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-27"
   },
   {
