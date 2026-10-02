@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-reddit-20261002-1",
+    "title": "r/sidehustle Online Income Generation",
+    "platform": "Reddit",
+    "category": "Income Streams",
+    "memberCount": "450,000+ members",
+    "description": "Practical guides to establishing high-margin online income streams through affiliate promotions and digital assets.",
+    "joinUrl": "https://www.reddit.com/r/sidehustle/",
+    "tags": [
+      "sidehustle",
+      "income",
+      "affiliates",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-02"
+  },
+  {
     "id": "youtube-automation-creators-hub-reddit-20261001-1",
     "title": "r/onlinebusiness Digital Business Models",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-01"
   },
   {
