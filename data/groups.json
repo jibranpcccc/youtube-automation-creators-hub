@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-telegram-20261018-1",
+    "title": "Marketing Pro Broadcast Telegram",
+    "platform": "Telegram",
+    "category": "Marketing Intel",
+    "memberCount": "75,000+ members",
+    "description": "Breaking announcements, paid ad policy updates across Google & Meta, and conversion rate benchmarks.",
+    "joinUrl": "https://t.me/marketingpro",
+    "tags": [
+      "marketing",
+      "telegram",
+      "benchmarks",
+      "policy"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-18"
+  },
+  {
     "id": "youtube-automation-creators-hub-reddit-20261017-1",
     "title": "r/NativeAds Content Recommendations",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-17"
   },
   {
