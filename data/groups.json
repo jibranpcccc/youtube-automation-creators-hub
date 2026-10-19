@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-reddit-20261019-1",
+    "title": "r/gamedev Developers Network",
+    "platform": "Reddit",
+    "category": "Game Development",
+    "memberCount": "1,400,000+ members",
+    "description": "The premier community for game designers, indie developers, gameplay programmers, and procedural artists.",
+    "joinUrl": "https://www.reddit.com/r/gamedev/",
+    "tags": [
+      "gamedev",
+      "indiedev",
+      "design",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-19"
+  },
+  {
     "id": "youtube-automation-creators-hub-telegram-20261018-1",
     "title": "Marketing Pro Broadcast Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-18"
   },
   {
