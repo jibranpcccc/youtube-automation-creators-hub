@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-reddit-20261022-1",
+    "title": "r/unrealengine Creators",
+    "platform": "Reddit",
+    "category": "Game Engines",
+    "memberCount": "320,000+ members",
+    "description": "Unreal Engine 5 enthusiasts discussing Nanite, Lumen, Blueprints, C++ architecture, and MetaHumans.",
+    "joinUrl": "https://www.reddit.com/r/unrealengine/",
+    "tags": [
+      "unreal",
+      "ue5",
+      "graphics",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-22"
+  },
+  {
     "id": "youtube-automation-creators-hub-reddit-20261021-1",
     "title": "r/unity3d Engine Developers",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-21"
   },
   {
