@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-discord-20261023-1",
+    "title": "Game Dev League Discord",
+    "platform": "Discord",
+    "category": "Game Development",
+    "memberCount": "82,000+ members",
+    "description": "A massive community of game developers, artists, sound engineers, and game jam participants on Discord.",
+    "joinUrl": "https://discord.gg/gamedev",
+    "tags": [
+      "gamedev",
+      "discord",
+      "indiedev",
+      "art"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-23"
+  },
+  {
     "id": "youtube-automation-creators-hub-reddit-20261022-1",
     "title": "r/unrealengine Creators",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-22"
   },
   {
