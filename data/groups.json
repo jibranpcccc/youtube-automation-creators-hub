@@ -1,5 +1,24 @@
 [
   {
+    "id": "youtube-automation-creators-hub-telegram-20261025-1",
+    "title": "Indie Game Developers Channel",
+    "platform": "Telegram",
+    "category": "Indie Games",
+    "memberCount": "41,000+ members",
+    "description": "Showcases of work-in-progress indie games, marketing playbooks, and Steam launch benchmarks.",
+    "joinUrl": "https://t.me/gamedev_channel",
+    "tags": [
+      "gamedev",
+      "telegram",
+      "indie",
+      "steam"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-25"
+  },
+  {
     "id": "youtube-automation-creators-hub-discord-20261024-1",
     "title": "Blender Official Community Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-24"
   },
   {
