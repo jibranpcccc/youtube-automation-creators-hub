@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/youtubers Professional Video Creators",
+    "platform": "Reddit",
+    "category": "Creator Community",
+    "memberCount": "290,000+ members",
+    "description": "Discussions on YouTube partner monetization, copyright strike management, audience demographics, and studio production.",
+    "joinUrl": "https://www.reddit.com/r/youtubers/",
+    "tags": [
+      "youtubers",
+      "monetization",
+      "studio",
+      "production"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-2",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "title": "r/NewTubers Creator Development",
     "platform": "Reddit",
     "category": "YouTube Growth",
@@ -15,7 +34,7 @@
     "id": "youtube-automation-creators-hub-reddit-1",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -853,24 +872,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/youtubers Professional Video Creators",
-    "platform": "Reddit",
-    "category": "Creator Community",
-    "memberCount": "290,000+ members",
-    "description": "Discussions on YouTube partner monetization, copyright strike management, audience demographics, and studio production.",
-    "joinUrl": "https://www.reddit.com/r/youtubers/",
-    "tags": [
-      "youtubers",
-      "monetization",
-      "studio",
-      "production"
-    ],
-    "id": "youtube-automation-creators-hub-reddit-2",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/VideoEditing Post-Production Craft",
