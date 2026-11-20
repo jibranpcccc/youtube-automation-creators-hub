@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/VideoEditing Post-Production Craft",
+    "platform": "Reddit",
+    "category": "Video Editing",
+    "memberCount": "420,000+ members",
+    "description": "Mastering editing workflows, motion graphics, sound design, color grading, and speed-editing techniques.",
+    "joinUrl": "https://www.reddit.com/r/VideoEditing/",
+    "tags": [
+      "videoediting",
+      "motiongraphics",
+      "sounddesign",
+      "editing"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-3",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "title": "r/youtubers Professional Video Creators",
     "platform": "Reddit",
     "category": "Creator Community",
@@ -15,7 +34,7 @@
     "id": "youtube-automation-creators-hub-reddit-2",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -872,24 +891,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/VideoEditing Post-Production Craft",
-    "platform": "Reddit",
-    "category": "Video Editing",
-    "memberCount": "420,000+ members",
-    "description": "Mastering editing workflows, motion graphics, sound design, color grading, and speed-editing techniques.",
-    "joinUrl": "https://www.reddit.com/r/VideoEditing/",
-    "tags": [
-      "videoediting",
-      "motiongraphics",
-      "sounddesign",
-      "editing"
-    ],
-    "id": "youtube-automation-creators-hub-reddit-3",
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "title": "r/premiere Adobe Premiere Pro Mastermind",
