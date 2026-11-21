@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/premiere Adobe Premiere Pro Mastermind",
+    "platform": "Reddit",
+    "category": "NLE Software",
+    "memberCount": "160,000+ members",
+    "description": "Essential Premiere Pro plugins, dynamic link workflows, caption generation, audio mastering, and rendering presets.",
+    "joinUrl": "https://www.reddit.com/r/premiere/",
+    "tags": [
+      "premiere",
+      "adobe",
+      "editing",
+      "plugins"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-4",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "title": "r/VideoEditing Post-Production Craft",
     "platform": "Reddit",
     "category": "Video Editing",
@@ -15,7 +34,7 @@
     "id": "youtube-automation-creators-hub-reddit-3",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -891,24 +910,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/premiere Adobe Premiere Pro Mastermind",
-    "platform": "Reddit",
-    "category": "NLE Software",
-    "memberCount": "160,000+ members",
-    "description": "Essential Premiere Pro plugins, dynamic link workflows, caption generation, audio mastering, and rendering presets.",
-    "joinUrl": "https://www.reddit.com/r/premiere/",
-    "tags": [
-      "premiere",
-      "adobe",
-      "editing",
-      "plugins"
-    ],
-    "id": "youtube-automation-creators-hub-reddit-4",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/AfterEffects Motion Graphics Guild",
