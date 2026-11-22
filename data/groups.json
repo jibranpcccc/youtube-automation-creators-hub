@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/AfterEffects Motion Graphics Guild",
+    "platform": "Reddit",
+    "category": "Motion Graphics",
+    "memberCount": "280,000+ members",
+    "description": "Creating viral hooks, 3D text animations, cinematic transitions, particle effects, and kinetic typography for YouTube.",
+    "joinUrl": "https://www.reddit.com/r/AfterEffects/",
+    "tags": [
+      "aftereffects",
+      "motion",
+      "typography",
+      "vfx"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-5",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "title": "r/premiere Adobe Premiere Pro Mastermind",
     "platform": "Reddit",
     "category": "NLE Software",
@@ -15,7 +34,7 @@
     "id": "youtube-automation-creators-hub-reddit-4",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -910,24 +929,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/AfterEffects Motion Graphics Guild",
-    "platform": "Reddit",
-    "category": "Motion Graphics",
-    "memberCount": "280,000+ members",
-    "description": "Creating viral hooks, 3D text animations, cinematic transitions, particle effects, and kinetic typography for YouTube.",
-    "joinUrl": "https://www.reddit.com/r/AfterEffects/",
-    "tags": [
-      "aftereffects",
-      "motion",
-      "typography",
-      "vfx"
-    ],
-    "id": "youtube-automation-creators-hub-reddit-5",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/davinciresolve Color & Fusion Workflows",
