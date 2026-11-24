@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/PartneredYoutube Monetized Channels",
+    "platform": "Reddit",
+    "category": "YPP Partners",
+    "memberCount": "85,000+ members",
+    "description": "Exclusive forum for monetized creators discussing RPM/CPM rates by niche, AdSense payouts, and sponsorship contracts.",
+    "joinUrl": "https://www.reddit.com/r/PartneredYoutube/",
+    "tags": [
+      "partnered",
+      "cpm",
+      "rpm",
+      "adsense"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-7",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "title": "r/davinciresolve Color & Fusion Workflows",
     "platform": "Reddit",
     "category": "DaVinci Resolve",
@@ -15,7 +34,7 @@
     "id": "youtube-automation-creators-hub-reddit-6",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -948,24 +967,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/PartneredYoutube Monetized Channels",
-    "platform": "Reddit",
-    "category": "YPP Partners",
-    "memberCount": "85,000+ members",
-    "description": "Exclusive forum for monetized creators discussing RPM/CPM rates by niche, AdSense payouts, and sponsorship contracts.",
-    "joinUrl": "https://www.reddit.com/r/PartneredYoutube/",
-    "tags": [
-      "partnered",
-      "cpm",
-      "rpm",
-      "adsense"
-    ],
-    "id": "youtube-automation-creators-hub-reddit-7",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/YouTubeCreators Channel Management",
