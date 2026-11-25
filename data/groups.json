@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/YouTubeCreators Channel Management",
+    "platform": "Reddit",
+    "category": "Creator Strategy",
+    "memberCount": "65,000+ members",
+    "description": "Long-term channel brand building, community tab engagement, multi-format upload cadences, and viewer retention.",
+    "joinUrl": "https://www.reddit.com/r/YouTubeCreators/",
+    "tags": [
+      "youtubecreators",
+      "strategy",
+      "community",
+      "retention"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-8",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "title": "r/PartneredYoutube Monetized Channels",
     "platform": "Reddit",
     "category": "YPP Partners",
@@ -15,7 +34,7 @@
     "id": "youtube-automation-creators-hub-reddit-7",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -967,24 +986,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/YouTubeCreators Channel Management",
-    "platform": "Reddit",
-    "category": "Creator Strategy",
-    "memberCount": "65,000+ members",
-    "description": "Long-term channel brand building, community tab engagement, multi-format upload cadences, and viewer retention.",
-    "joinUrl": "https://www.reddit.com/r/YouTubeCreators/",
-    "tags": [
-      "youtubecreators",
-      "strategy",
-      "community",
-      "retention"
-    ],
-    "id": "youtube-automation-creators-hub-reddit-8",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/Shorts Vertical Video Strategy",
