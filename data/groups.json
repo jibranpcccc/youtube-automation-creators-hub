@@ -1,5 +1,24 @@
 [
   {
+    "title": "r/Shorts Vertical Video Strategy",
+    "platform": "Reddit",
+    "category": "YouTube Shorts",
+    "memberCount": "32,000+ members",
+    "description": "Mastering YouTube Shorts algorithm, swipe-away rate reduction, vertical storytelling, and shorts-to-longform conversion.",
+    "joinUrl": "https://www.reddit.com/r/shorts/",
+    "tags": [
+      "shorts",
+      "vertical",
+      "algorithm",
+      "virality"
+    ],
+    "id": "youtube-automation-creators-hub-reddit-9",
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "title": "r/YouTubeCreators Channel Management",
     "platform": "Reddit",
     "category": "Creator Strategy",
@@ -15,7 +34,7 @@
     "id": "youtube-automation-creators-hub-reddit-8",
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -986,24 +1005,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "title": "r/Shorts Vertical Video Strategy",
-    "platform": "Reddit",
-    "category": "YouTube Shorts",
-    "memberCount": "32,000+ members",
-    "description": "Mastering YouTube Shorts algorithm, swipe-away rate reduction, vertical storytelling, and shorts-to-longform conversion.",
-    "joinUrl": "https://www.reddit.com/r/shorts/",
-    "tags": [
-      "shorts",
-      "vertical",
-      "algorithm",
-      "virality"
-    ],
-    "id": "youtube-automation-creators-hub-reddit-9",
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "title": "r/content_marketing Digital Video Reach",
